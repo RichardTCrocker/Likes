@@ -1,0 +1,23 @@
+.mainBox{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.yellowButton{
+    background-color: rgb(255,217,102);
+    box-shadow: 2px 2px black;
+}
+.topLine{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fillerText{
+    text-align: center;
+}
+.borderAll{
+    border: 2px solid black;
+    padding: 5px;
+    width: 525px;
+}
